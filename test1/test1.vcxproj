@@ -230,7 +230,7 @@
     <ClCompile Include="求字符串长度%28指针方法%29.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="源.c" />
+    <ClCompile Include="计算器.c" />
     <ClCompile Include="猜数字游戏.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>

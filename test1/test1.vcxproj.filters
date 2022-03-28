@@ -129,7 +129,7 @@
     <ClCompile Include="数组指针.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="源.c">
+    <ClCompile Include="计算器.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
