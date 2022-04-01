@@ -135,5 +135,8 @@
     <ClCompile Include="qsort比较函数.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="冒泡排序（模拟实现qsort函数）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
