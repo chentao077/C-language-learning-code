@@ -19,7 +19,7 @@ int main()
 		tmp = i;
 		while (tmp)
 		{
-			sum += (int)pow(tmp % 10, n);
+			sum += (int)pow(tmp % 10, n);//计算次方函数
 			tmp /= 10;
 		}
 		//判断是否相等

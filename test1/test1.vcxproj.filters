@@ -141,5 +141,8 @@
     <ClCompile Include="水仙花数.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="杨辉三角.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
