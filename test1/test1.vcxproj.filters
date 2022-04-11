@@ -150,5 +150,8 @@
     <ClCompile Include="模拟实现strcat和strcpy（字符串的追加和拷贝）.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="strtok函数(切割字符串).c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
