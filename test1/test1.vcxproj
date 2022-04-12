@@ -239,6 +239,7 @@
     <ClCompile Include="模拟实现memcpy（内存拷贝）.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="模拟实现memmove%28重叠内存拷贝%29.c" />
     <ClCompile Include="模拟实现strcat和strcpy（字符串的追加和拷贝）.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
