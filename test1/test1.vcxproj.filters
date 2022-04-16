@@ -159,5 +159,8 @@
     <ClCompile Include="模拟实现memmove%28重叠内存拷贝%29.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="柔性数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
