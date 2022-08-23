@@ -152,137 +152,137 @@
     <ClCompile Include="03 99乘法口诀表.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="n的k次方%28递归%29.c">
+    <ClCompile Include="11 n的k次方%28递归%29.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="n的阶乘（递归）.c">
+    <ClCompile Include="12 n的阶乘（递归）.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="printf套娃.c">
+    <ClCompile Include="14 printf套娃.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="qsort比较函数.c">
+    <ClCompile Include="16 qsort比较函数.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="strtok函数(切割字符串).c">
+    <ClCompile Include="18 strtok函数%28切割字符串%29.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="不创建临时变量，求字符串长度%28递归%29.c">
+    <ClCompile Include="21 不创建临时变量，求字符串长度%28递归%29.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="二分查找函数.c">
+    <ClCompile Include="25 二分查找函数.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="二分法查找.c">
+    <ClCompile Include="26 二分法查找.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="n的阶乘.c">
+    <ClCompile Include="13 n的阶乘.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="putchar用法.c">
+    <ClCompile Include="15 putchar用法.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="getchar用法.c">
+    <ClCompile Include="06 getchar用法.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="swich-case循环.c">
+    <ClCompile Include="20 swich-case循环.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="if.c">
+    <ClCompile Include="07 if.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="05 add函数.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="max(define宏定义).c">
+    <ClCompile Include="08 max%28define宏定义%29.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="max（三目运算）.c">
+    <ClCompile Include="10 max（三目运算）.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="max（函数方法）.c">
+    <ClCompile Include="09 max（函数方法）.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="static int和void函数.c">
+    <ClCompile Include="17 static int和void函数.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="struct方法（结构体变量）.c">
+    <ClCompile Include="19 struct方法（结构体变量）.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="从大到小排序.c">
+    <ClCompile Include="24 从大到小排序.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="传址调用.c">
+    <ClCompile Include="23 传址调用.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="关机程序.c">
+    <ClCompile Include="28 关机程序.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="冒泡排序.c">
+    <ClCompile Include="34 冒泡排序.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="冒泡排序（模拟实现qsort函数）.c">
+    <ClCompile Include="33 冒泡排序（模拟实现qsort函数）.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="分别打印一个二进制数的奇数位和偶数位.c">
+    <ClCompile Include="27 分别打印一个二进制数的奇数位和偶数位.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="指针数组.c">
+    <ClCompile Include="49 指针数组.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="数组指针.c">
+    <ClCompile Include="45 数组指针.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="杨辉三角.c">
+    <ClCompile Include="48 杨辉三角.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="柔性数组.c" />
-    <ClCompile Include="模拟实现memcpy（内存拷贝）.c">
+    <ClCompile Include="43 柔性数组.c" />
+    <ClCompile Include="36 模拟实现memcpy（内存拷贝）.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="模拟实现memmove%28重叠内存拷贝%29.c">
+    <ClCompile Include="37 模拟实现memmove%28重叠内存拷贝%29.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="模拟实现strcat和strcpy（字符串的追加和拷贝）.c">
+    <ClCompile Include="38 模拟实现strcat和strcpy（字符串的追加和拷贝）.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="模拟实现strstr函数（查找字符串）.c">
+    <ClCompile Include="39 模拟实现strstr函数（查找字符串）.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="每调用一次函数，计数一次.c">
+    <ClCompile Include="35 每调用一次函数，计数一次.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="水仙花数.c">
+    <ClCompile Include="46 水仙花数.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="求字符串长度%28指针方法%29.c">
+    <ClCompile Include="42 求字符串长度%28指针方法%29.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="猜数字游戏.c">
+    <ClCompile Include="22 猜数字游戏.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="结构体传参.c">
+    <ClCompile Include="32 结构体传参.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="计算一个数二进制中有几个1.c">
+    <ClCompile Include="30 计算一个数二进制中有几个1.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="计算一个数组中的最大值.c">
+    <ClCompile Include="31 计算一个数组中的最大值.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="计算器.c">
+    <ClCompile Include="29 计算器.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="输入一个非零数，返回各位之和%28简单递归%29.c">
+    <ClCompile Include="44 输入一个非零数，返回各位之和%28简单递归%29 .c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="逆序字符串.c">
+    <ClCompile Include="41 逆序字符串.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="逆序字符串（递归）.c">
+    <ClCompile Include="40 逆序字符串（递归）.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="顺序打印.c">
+    <ClCompile Include="47 顺序打印.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
   </ItemGroup>
